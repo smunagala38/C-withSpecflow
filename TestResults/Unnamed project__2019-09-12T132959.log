@@ -1,0 +1,62 @@
+﻿2019-09-12T13:29:59.6220639+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-12T13:29:59.6220639+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.388 in Framework netcore22 in x64 mode execution started
+2019-09-12T13:29:59.6220639+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-12T13:29:59.7020719+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\specDemo.dll
+2019-09-12T13:29:59.7030720+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\TestResults" (default)
+2019-09-12T13:29:59.7030720+05:30;VSTestExecutionThread;Info;Profile: 
+2019-09-12T13:29:59.7900807+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\TestResults\Unnamed project__2019-09-12T132959.log
+2019-09-12T13:29:59.8110828+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-12T13:29:59.8340851+05:30;Thread#11;Info;Checking license
+2019-09-12T13:29:59.8590876+05:30;Thread#11;Info;Evaluation mode: test execution starts in 5 seconds... (this delay is removed in the registered version)
+2019-09-12T13:30:04.8605877+05:30;Thread#11;Info;Evaluation delay finished.
+2019-09-12T13:30:04.8735890+05:30;Thread#11;Info;License check completed
+2019-09-12T13:30:04.8745891+05:30;Thread#11;Info;starting test run
+2019-09-12T13:30:04.9075924+05:30;Thread#11;Info;Discovering target: Default
+2019-09-12T13:30:04.9075924+05:30;Thread#11;Info;Discovering tests from assembly: C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\specDemo.dll
+2019-09-12T13:30:05.1526169+05:30;Thread#11;Info;Discovered tests from assembly: C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\specDemo.dll
+2019-09-12T13:30:05.1546171+05:30:Test Suite Dump
+2019-09-12T13:30:05.1566173+05:30:#0: Unnamed project/ - 
+2019-09-12T13:30:05.1566173+05:30:#1: Default - 
+2019-09-12T13:30:05.1566173+05:30:#2: specDemo - 
+2019-09-12T13:30:05.1566173+05:30:#5: LogIn_Feature - 
+2019-09-12T13:30:05.1576174+05:30:#6: Successful Login with Valid Credentials - TestAssembly:specDemo/Feature:LogIn_Feature/Scenario:Successful+Login+with+Valid+Credentials
+2019-09-12T13:30:05.1576174+05:30:End: Test Suite Dump
+2019-09-12T13:30:05.1856202+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-09-12T13:30:05.1876204+05:30:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-09-12T13:30:05.1886205+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-09-12T13:30:05.1926209+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-12T13:30:05.1926209+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-09-12T13:30:05.1926209+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-09-12T13:30:05.1926209+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-09-12T13:30:05.1946211+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-09-12T13:30:05.1956212+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-09-12T13:30:05.2006217+05:30:Thread #0: creating new test thread executor for specDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-09-12T13:30:05.2036220+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2019-09-12T13:30:05.2046221+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2019-09-12T13:30:05.2056222+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2019-09-12T13:30:05.2306247+05:30:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-09-12T13:30:05.2766293+05:30:starting Out Of Process Executor
+2019-09-12T13:30:05.4406457+05:30:Executing test executor at 'C:\Program Files\dotnet\dotnet.exe' '"C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll" 12580 2019-09-12T132959 "C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\TestResults" debug' in 'C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2'
+2019-09-12T13:30:05.4426459+05:30;Thread#11;Info;Starting SpecFlow+ Runner executor process with attached debugger...
+2019-09-12T13:30:05.4946511+05:30;Thread#11;Info;Successfully started SpecFlow+ Runner executor process
+2019-09-12T13:30:05.4956512+05:30:Entering Memory Barrier for 10072
+2019-09-12T13:30:05.4956512+05:30:Leaving Memory Barrier for 10072
+2019-09-12T13:30:05.5056522+05:30:Out of Process Executor 10072 started
+2019-09-12T13:30:05.5386555+05:30:Waiting for endpoint
+2019-09-12T13:30:05.5406557+05:30:trying to connect to Out of Process Executor the 1 attempt
+2019-09-12T13:30:06.1447161+05:30:waiting for Connection of SpecRun.Executor.10072.Logger ended
+2019-09-12T13:30:06.1487165+05:30:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-09-12T13:30:06.2627279+05:30:Connection to Out of Process Executor established in the 1 attempt
+2019-09-12T13:30:06.7797796+05:30:waiting for Connection of SpecRun.Executor.10072.Callback ended
+2019-09-12T13:30:07.0588075+05:30:2019-09-12T13:30:06.9367953+05:30:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\specDemo.dll on test thread #0
+2019-09-12T13:30:07.0748091+05:30:Endpoint 10072 started
+2019-09-12T13:30:07.1058122+05:30:2019-09-12T13:30:07.1048121+05:30:OutOfProcessTestAssemblyExecutor: running tests...
+2019-09-12T13:30:07.2918308+05:30:Thread#0: Test #6/0 is started on thread #0
+2019-09-12T13:30:07.3308347+05:30:2019-09-12T13:30:07.3228339+05:30:Thread#0:T:2019-09-12T13:30:07.3208337+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-09-12T13:30:07.6298646+05:30:2019-09-12T13:30:07.6298646+05:30:Thread#0:T:-> Loading plugin C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-09-12T13:30:07.6458662+05:30:2019-09-12T13:30:07.6448661+05:30:Thread#0:T:2019-09-12T13:30:07.6448661+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-09-12T13:30:07.6518668+05:30:2019-09-12T13:30:07.6508667+05:30:Thread#0:T:-> Using default config
+2019-09-12T13:30:07.7338750+05:30:2019-09-12T13:30:07.7338750+05:30:Thread#0:B:Given User is at the Home Page
+2019-09-12T13:30:07.7598776+05:30:2019-09-12T13:30:07.7598776+05:30:Thread#0:T:2019-09-12T13:30:07.7588775+05:30:Assembly resolving WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2019-09-12T13:30:13.4374453+05:30:2019-09-12T13:30:13.4344450+05:30:Thread#0:T:Current Directory is :
+2019-09-12T13:30:13.4414457+05:30:2019-09-12T13:30:13.4414457+05:30:Thread#0:T:C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\TestResults

@@ -1,0 +1,146 @@
+﻿2019-09-12T13:10:59.5910722+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-12T13:10:59.5910722+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.388 in Framework netcore22 in x64 mode execution started
+2019-09-12T13:10:59.5910722+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-12T13:10:59.6500781+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\specDemo.dll
+2019-09-12T13:10:59.6510782+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\TestResults" (default)
+2019-09-12T13:10:59.6510782+05:30;VSTestExecutionThread;Info;Profile: 
+2019-09-12T13:10:59.7030834+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\TestResults\Unnamed project__2019-09-12T131059.log
+2019-09-12T13:10:59.7140845+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-12T13:10:59.7220853+05:30;Thread#11;Info;Checking license
+2019-09-12T13:10:59.7430874+05:30;Thread#11;Info;Evaluation mode: test execution starts in 10 seconds... (this delay is removed in the registered version)
+2019-09-12T13:11:09.7450875+05:30;Thread#11;Info;Evaluation delay finished.
+2019-09-12T13:11:09.7580888+05:30;Thread#11;Info;License check completed
+2019-09-12T13:11:09.7580888+05:30;Thread#11;Info;starting test run
+2019-09-12T13:11:09.7670897+05:30;Thread#11;Info;Discovering target: Default
+2019-09-12T13:11:09.7680898+05:30;Thread#11;Info;Discovering tests from assembly: C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\specDemo.dll
+2019-09-12T13:11:09.8971027+05:30;Thread#11;Info;Discovered tests from assembly: C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\specDemo.dll
+2019-09-12T13:11:09.8991029+05:30:Test Suite Dump
+2019-09-12T13:11:09.9021032+05:30:#0: Unnamed project/ - 
+2019-09-12T13:11:09.9021032+05:30:#1: Default - 
+2019-09-12T13:11:09.9021032+05:30:#2: specDemo - 
+2019-09-12T13:11:09.9021032+05:30:#5: LogIn_Feature - 
+2019-09-12T13:11:09.9021032+05:30:#6: Successful Login with Valid Credentials - TestAssembly:specDemo/Feature:LogIn_Feature/Scenario:Successful+Login+with+Valid+Credentials
+2019-09-12T13:11:09.9021032+05:30:End: Test Suite Dump
+2019-09-12T13:11:09.9261056+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-09-12T13:11:09.9291059+05:30:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-09-12T13:11:09.9291059+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-09-12T13:11:09.9341064+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-12T13:11:09.9341064+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-09-12T13:11:09.9341064+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-09-12T13:11:09.9341064+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-09-12T13:11:09.9361066+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-09-12T13:11:09.9371067+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-09-12T13:11:09.9411071+05:30:Thread #0: creating new test thread executor for specDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-09-12T13:11:09.9451075+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2019-09-12T13:11:09.9461076+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2019-09-12T13:11:09.9471077+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2019-09-12T13:11:09.9521082+05:30:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-09-12T13:11:09.9801110+05:30:starting Out Of Process Executor
+2019-09-12T13:11:10.1231253+05:30:Executing test executor at 'C:\Program Files\dotnet\dotnet.exe' '"C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll" 6436 2019-09-12T131059 "C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\TestResults"' in 'C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2'
+2019-09-12T13:11:10.1411271+05:30:Entering Memory Barrier for 8488
+2019-09-12T13:11:10.1411271+05:30:Leaving Memory Barrier for 8488
+2019-09-12T13:11:10.1461276+05:30:Out of Process Executor 8488 started
+2019-09-12T13:11:10.1521282+05:30:Waiting for endpoint
+2019-09-12T13:11:10.1541284+05:30:trying to connect to Out of Process Executor the 1 attempt
+2019-09-12T13:11:10.3671497+05:30:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-09-12T13:11:10.3791509+05:30:Connection to Out of Process Executor established in the 1 attempt
+2019-09-12T13:11:12.7033833+05:30:waiting for Connection of SpecRun.Executor.8488.Logger ended
+2019-09-12T13:11:13.0644194+05:30:waiting for Connection of SpecRun.Executor.8488.Callback ended
+2019-09-12T13:11:13.2774407+05:30:2019-09-12T13:11:13.1654295+05:30:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\specDemo.dll on test thread #0
+2019-09-12T13:11:13.2924422+05:30:Endpoint 8488 started
+2019-09-12T13:11:13.3184448+05:30:2019-09-12T13:11:13.3184448+05:30:OutOfProcessTestAssemblyExecutor: running tests...
+2019-09-12T13:11:13.4654595+05:30:Thread#0: Test #6/0 is started on thread #0
+2019-09-12T13:11:13.4764606+05:30:2019-09-12T13:11:13.4764606+05:30:Thread#0:T:2019-09-12T13:11:13.4744604+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-09-12T13:11:13.6534783+05:30:2019-09-12T13:11:13.6534783+05:30:Thread#0:T:-> Loading plugin C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-09-12T13:11:13.6564786+05:30:2019-09-12T13:11:13.6554785+05:30:Thread#0:T:2019-09-12T13:11:13.6554785+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-09-12T13:11:13.6614791+05:30:2019-09-12T13:11:13.6604790+05:30:Thread#0:T:-> Using default config
+2019-09-12T13:11:13.7174847+05:30:2019-09-12T13:11:13.7174847+05:30:Thread#0:B:Given User is at the Home Page
+2019-09-12T13:11:13.7414871+05:30:2019-09-12T13:11:13.7414871+05:30:Thread#0:T:2019-09-12T13:11:13.7404870+05:30:Assembly resolving WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2019-09-12T13:11:13.7474877+05:30:2019-09-12T13:11:13.7454875+05:30:Thread#0:T:C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\TestResults
+2019-09-12T13:11:13.8134943+05:30:2019-09-12T13:11:13.8124942+05:30:Thread#0:T:error: The file C:\Users\sreenivasa.munagala\Desktop\Drivers\chromedriver.exe does not exist. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html
+2019-09-12T13:11:13.8154945+05:30:2019-09-12T13:11:13.8154945+05:30:Thread#0:B:And Navigate to LogIn Page
+2019-09-12T13:11:13.8154945+05:30:2019-09-12T13:11:13.8154945+05:30:Thread#0:T:skipped because of previous errors
+2019-09-12T13:11:13.8164946+05:30:2019-09-12T13:11:13.8164946+05:30:Thread#0:B:When User enter UserName and Password
+2019-09-12T13:11:13.8164946+05:30:2019-09-12T13:11:13.8164946+05:30:Thread#0:T:skipped because of previous errors
+2019-09-12T13:11:13.8164946+05:30:2019-09-12T13:11:13.8164946+05:30:Thread#0:B:And Click on the LogIn button
+2019-09-12T13:11:13.8174947+05:30:2019-09-12T13:11:13.8174947+05:30:Thread#0:T:skipped because of previous errors
+2019-09-12T13:11:13.8174947+05:30:2019-09-12T13:11:13.8174947+05:30:Thread#0:B:Then Successful LogIN message should display
+2019-09-12T13:11:13.8184948+05:30:2019-09-12T13:11:13.8174947+05:30:Thread#0:T:skipped because of previous errors
+2019-09-12T13:11:13.8374967+05:30:Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+2019-09-12T13:11:13.8404970+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-09-12T13:11:13.8404970+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2019-09-12T13:11:13.8404970+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-09-12T13:11:13.8404970+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-12T13:11:13.8404970+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-09-12T13:11:13.8404970+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-09-12T13:11:13.8404970+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-09-12T13:11:13.8404970+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-09-12T13:11:13.8404970+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-09-12T13:11:13.8995029+05:30:Thread#0: Test #6/0 is finished on thread #0 as Failed within 0.4340434 seconds
+2019-09-12T13:11:13.9025032+05:30:Thread#0: Test #6/1 is started on thread #0
+2019-09-12T13:11:13.9035033+05:30:2019-09-12T13:11:13.9035033+05:30:Thread#0:B:Given User is at the Home Page
+2019-09-12T13:11:13.9045034+05:30:2019-09-12T13:11:13.9045034+05:30:Thread#0:T:C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\TestResults
+2019-09-12T13:11:13.9055035+05:30:2019-09-12T13:11:13.9055035+05:30:Thread#0:T:error: The file C:\Users\sreenivasa.munagala\Desktop\Drivers\chromedriver.exe does not exist. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html
+2019-09-12T13:11:13.9065036+05:30:2019-09-12T13:11:13.9065036+05:30:Thread#0:B:And Navigate to LogIn Page
+2019-09-12T13:11:13.9305060+05:30:2019-09-12T13:11:13.9305060+05:30:Thread#0:T:skipped because of previous errors
+2019-09-12T13:11:13.9305060+05:30:2019-09-12T13:11:13.9305060+05:30:Thread#0:B:When User enter UserName and Password
+2019-09-12T13:11:13.9305060+05:30:2019-09-12T13:11:13.9305060+05:30:Thread#0:T:skipped because of previous errors
+2019-09-12T13:11:13.9315061+05:30:2019-09-12T13:11:13.9315061+05:30:Thread#0:B:And Click on the LogIn button
+2019-09-12T13:11:13.9315061+05:30:2019-09-12T13:11:13.9315061+05:30:Thread#0:T:skipped because of previous errors
+2019-09-12T13:11:13.9315061+05:30:2019-09-12T13:11:13.9315061+05:30:Thread#0:B:Then Successful LogIN message should display
+2019-09-12T13:11:13.9315061+05:30:2019-09-12T13:11:13.9315061+05:30:Thread#0:T:skipped because of previous errors
+2019-09-12T13:11:13.9335063+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-09-12T13:11:13.9335063+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2019-09-12T13:11:13.9335063+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-09-12T13:11:13.9335063+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-12T13:11:13.9335063+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-09-12T13:11:13.9335063+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-09-12T13:11:13.9335063+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-09-12T13:11:13.9335063+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-09-12T13:11:13.9335063+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-09-12T13:11:13.9345064+05:30:Thread#0: Test #6/1 is finished on thread #0 as Failed within 0.0320032 seconds
+2019-09-12T13:11:13.9355065+05:30:Thread#0: Test #6/2 is started on thread #0
+2019-09-12T13:11:13.9355065+05:30:2019-09-12T13:11:13.9355065+05:30:Thread#0:B:Given User is at the Home Page
+2019-09-12T13:11:13.9365066+05:30:2019-09-12T13:11:13.9365066+05:30:Thread#0:T:C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\TestResults
+2019-09-12T13:11:13.9385068+05:30:2019-09-12T13:11:13.9375067+05:30:Thread#0:T:error: The file C:\Users\sreenivasa.munagala\Desktop\Drivers\chromedriver.exe does not exist. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html
+2019-09-12T13:11:13.9385068+05:30:2019-09-12T13:11:13.9385068+05:30:Thread#0:B:And Navigate to LogIn Page
+2019-09-12T13:11:13.9395069+05:30:2019-09-12T13:11:13.9385068+05:30:Thread#0:T:skipped because of previous errors
+2019-09-12T13:11:13.9395069+05:30:2019-09-12T13:11:13.9395069+05:30:Thread#0:B:When User enter UserName and Password
+2019-09-12T13:11:13.9405070+05:30:2019-09-12T13:11:13.9405070+05:30:Thread#0:T:skipped because of previous errors
+2019-09-12T13:11:13.9415071+05:30:2019-09-12T13:11:13.9405070+05:30:Thread#0:B:And Click on the LogIn button
+2019-09-12T13:11:13.9415071+05:30:2019-09-12T13:11:13.9415071+05:30:Thread#0:T:skipped because of previous errors
+2019-09-12T13:11:13.9425072+05:30:2019-09-12T13:11:13.9425072+05:30:Thread#0:B:Then Successful LogIN message should display
+2019-09-12T13:11:13.9435073+05:30:2019-09-12T13:11:13.9425072+05:30:Thread#0:T:skipped because of previous errors
+2019-09-12T13:11:13.9455075+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-09-12T13:11:13.9455075+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-09-12T13:11:13.9455075+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-09-12T13:11:13.9455075+05:30:Thread#0:Scheduler: No more tests for thread
+2019-09-12T13:11:13.9485078+05:30:Thread#0: Test #6/2 is finished on thread #0 as Failed within 0.0130013 seconds
+2019-09-12T13:11:13.9625092+05:30:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2019-09-12T13:11:13.9715101+05:30:Unable to stop executor process: System.InvalidOperationException: No process is associated with this object.
+   at System.Diagnostics.Process.EnsureState(State state)
+   at System.Diagnostics.Process.get_HasExited()
+   at TechTalk.SpecRun.Framework.Execution.OutOfProc.OutProcExecutorManager.StopExecutorProcess(Process executorProcess)
+2019-09-12T13:11:13.9815111+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-09-12T13:11:13.9815111+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-09-12T13:11:13.9815111+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-09-12T13:11:13.9915121+05:30;Thread#11;Info;test run finished
+2019-09-12T13:11:13.9915121+05:30;Thread#11;Info;publishing test results
+2019-09-12T13:11:13.9915121+05:30;Thread#11;Info;Not publishing results.
+2019-09-12T13:11:13.9915121+05:30;Thread#11;Info;test results published
+2019-09-12T13:11:13.9925122+05:30;Thread#11;Info;generating reports
+2019-09-12T13:11:14.1015231+05:30;Thread#11;Info;Starting external report generation process
+2019-09-12T13:11:16.3427472+05:30;Thread#11;Info;Successfully generated reports.
+2019-09-12T13:11:16.3457475+05:30;Thread#11;Info;Successfully generated reports
+2019-09-12T13:11:16.3537483+05:30:Total: 1 (test executions: 3)
+2019-09-12T13:11:16.3577487+05:30:Succeeded: 0
+2019-09-12T13:11:16.3577487+05:30:Ignored: 0
+2019-09-12T13:11:16.3587488+05:30:Pending: 0
+2019-09-12T13:11:16.3587488+05:30:Skipped: 0
+2019-09-12T13:11:16.3597489+05:30:Failed: 1
+2019-09-12T13:11:16.3707500+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-12T13:11:16.3707500+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\TestResults\Unnamed project__2019-09-12T131059.html'
+========== End of log file ==========

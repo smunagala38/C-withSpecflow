@@ -1,0 +1,99 @@
+﻿2019-09-12T10:14:07.7651369+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-12T10:14:07.7651369+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.388 in Framework netcore22 in x64 mode execution started
+2019-09-12T10:14:07.7651369+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-12T10:14:07.8361440+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\specDemo.dll
+2019-09-12T10:14:07.8361440+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\TestResults" (default)
+2019-09-12T10:14:07.8371441+05:30;VSTestExecutionThread;Info;Profile: 
+2019-09-12T10:14:07.8901494+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\TestResults\Unnamed project__2019-09-12T101407.log
+2019-09-12T10:14:07.9011505+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-12T10:14:07.9091513+05:30;Thread#11;Info;Checking license
+2019-09-12T10:14:07.9321536+05:30;Thread#11;Info;Evaluation mode: test execution starts in 9 seconds... (this delay is removed in the registered version)
+2019-09-12T10:14:16.9330536+05:30;Thread#11;Info;Evaluation delay finished.
+2019-09-12T10:14:16.9550558+05:30;Thread#11;Info;License check completed
+2019-09-12T10:14:16.9560559+05:30;Thread#11;Info;starting test run
+2019-09-12T10:14:16.9710574+05:30;Thread#11;Info;Discovering target: Default
+2019-09-12T10:14:16.9710574+05:30;Thread#11;Info;Discovering tests from assembly: C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\specDemo.dll
+2019-09-12T10:14:17.1140717+05:30;Thread#11;Info;Discovered tests from assembly: C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\specDemo.dll
+2019-09-12T10:14:17.1160719+05:30:Test Suite Dump
+2019-09-12T10:14:17.1190722+05:30:#0: Unnamed project/ - 
+2019-09-12T10:14:17.1190722+05:30:#1: Default - 
+2019-09-12T10:14:17.1190722+05:30:#2: specDemo - 
+2019-09-12T10:14:17.1190722+05:30:#3: Calculator - 
+2019-09-12T10:14:17.1190722+05:30:#4: Add two numbers - TestAssembly:specDemo/Feature:Calculator/Scenario:Add+two+numbers
+2019-09-12T10:14:17.1190722+05:30:End: Test Suite Dump
+2019-09-12T10:14:17.1440747+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-09-12T10:14:17.1460749+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-09-12T10:14:17.1460749+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-09-12T10:14:17.1510754+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-12T10:14:17.1510754+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-09-12T10:14:17.1510754+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-09-12T10:14:17.1510754+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-09-12T10:14:17.1530756+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-09-12T10:14:17.1540757+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-09-12T10:14:17.1590762+05:30:Thread #0: creating new test thread executor for specDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-09-12T10:14:17.1620765+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2019-09-12T10:14:17.1630766+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2019-09-12T10:14:17.1640767+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2019-09-12T10:14:17.1690772+05:30:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-09-12T10:14:17.1970800+05:30:starting Out Of Process Executor
+2019-09-12T10:14:17.3870990+05:30:Executing test executor at 'C:\Program Files\dotnet\dotnet.exe' '"C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll" 4716 2019-09-12T101407 "C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\TestResults"' in 'C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2'
+2019-09-12T10:14:17.3991002+05:30:Entering Memory Barrier for 3960
+2019-09-12T10:14:17.3991002+05:30:Leaving Memory Barrier for 3960
+2019-09-12T10:14:17.4041007+05:30:Out of Process Executor 3960 started
+2019-09-12T10:14:17.4631066+05:30:Waiting for endpoint
+2019-09-12T10:14:17.4651068+05:30:trying to connect to Out of Process Executor the 1 attempt
+2019-09-12T10:14:17.6891292+05:30:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-09-12T10:14:17.7011304+05:30:Connection to Out of Process Executor established in the 1 attempt
+2019-09-12T10:14:19.3522955+05:30:waiting for Connection of SpecRun.Executor.3960.Logger ended
+2019-09-12T10:14:19.8313434+05:30:waiting for Connection of SpecRun.Executor.3960.Callback ended
+2019-09-12T10:14:20.0503653+05:30:2019-09-12T10:14:19.9333536+05:30:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\specDemo.dll on test thread #0
+2019-09-12T10:14:20.0653668+05:30:Endpoint 3960 started
+2019-09-12T10:14:20.0913694+05:30:2019-09-12T10:14:20.0913694+05:30:OutOfProcessTestAssemblyExecutor: running tests...
+2019-09-12T10:14:20.2473850+05:30:Thread#0: Test #4/0 is started on thread #0
+2019-09-12T10:14:20.2593862+05:30:2019-09-12T10:14:20.2583861+05:30:Thread#0:T:2019-09-12T10:14:20.2563859+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-09-12T10:14:20.4544057+05:30:2019-09-12T10:14:20.4544057+05:30:Thread#0:T:-> Loading plugin C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\specDemo\bin\Debug\netcoreapp2.2\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-09-12T10:14:20.4574060+05:30:2019-09-12T10:14:20.4574060+05:30:Thread#0:T:2019-09-12T10:14:20.4574060+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-09-12T10:14:20.4624065+05:30:2019-09-12T10:14:20.4624065+05:30:Thread#0:T:-> Using default config
+2019-09-12T10:14:20.5354138+05:30:2019-09-12T10:14:20.5344137+05:30:Thread#0:B:Given I have entered 50 into the calculator
+2019-09-12T10:14:20.6974300+05:30:2019-09-12T10:14:20.6974300+05:30:Thread#0:T:pending: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(50)
+2019-09-12T10:14:20.7004303+05:30:2019-09-12T10:14:20.6994302+05:30:Thread#0:B:And I have also entered 70 into the calculator
+2019-09-12T10:14:20.7034306+05:30:2019-09-12T10:14:20.7024305+05:30:Thread#0:T:skipped because of previous errors
+2019-09-12T10:14:20.7044307+05:30:2019-09-12T10:14:20.7034306+05:30:Thread#0:B:When I press add
+2019-09-12T10:14:20.7044307+05:30:2019-09-12T10:14:20.7044307+05:30:Thread#0:T:skipped because of previous errors
+2019-09-12T10:14:20.7054308+05:30:2019-09-12T10:14:20.7054308+05:30:Thread#0:B:Then the result should be 120 on the screen
+2019-09-12T10:14:20.7054308+05:30:2019-09-12T10:14:20.7054308+05:30:Thread#0:T:skipped because of previous errors
+2019-09-12T10:14:20.7114314+05:30:2019-09-12T10:14:20.7114314+05:30:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2019-09-12T10:14:20.7124315+05:30:2019-09-12T10:14:20.7124315+05:30:Thread#0:T:  CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(50)
+2019-09-12T10:14:20.7214324+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-09-12T10:14:20.7214324+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-09-12T10:14:20.7214324+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-09-12T10:14:20.7214324+05:30:Thread#0:Scheduler: No more tests for thread
+2019-09-12T10:14:20.7674370+05:30:Thread#0: Test #4/0 is finished on thread #0 as Pending within 0.520052 seconds
+2019-09-12T10:14:20.7814384+05:30:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2019-09-12T10:14:20.8044407+05:30:Unable to stop executor process: System.InvalidOperationException: No process is associated with this object.
+   at System.Diagnostics.Process.EnsureState(State state)
+   at System.Diagnostics.Process.get_HasExited()
+   at TechTalk.SpecRun.Framework.Execution.OutOfProc.OutProcExecutorManager.StopExecutorProcess(Process executorProcess)
+2019-09-12T10:14:20.8224425+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-09-12T10:14:20.8224425+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-09-12T10:14:20.8224425+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-09-12T10:14:20.8254428+05:30;Thread#11;Info;test run finished
+2019-09-12T10:14:20.8264429+05:30;Thread#11;Info;publishing test results
+2019-09-12T10:14:20.8264429+05:30;Thread#11;Info;Not publishing results.
+2019-09-12T10:14:20.8264429+05:30;Thread#11;Info;test results published
+2019-09-12T10:14:20.8264429+05:30;Thread#11;Info;generating reports
+2019-09-12T10:14:20.9404543+05:30;Thread#11;Info;Starting external report generation process
+2019-09-12T10:14:24.5528155+05:30;Thread#11;Info;Successfully generated reports.
+2019-09-12T10:14:24.5548157+05:30;Thread#11;Info;Successfully generated reports
+2019-09-12T10:14:24.5638166+05:30:Total: 1
+2019-09-12T10:14:24.5668169+05:30:Succeeded: 0
+2019-09-12T10:14:24.5678170+05:30:Ignored: 0
+2019-09-12T10:14:24.5688171+05:30:Pending: 1
+2019-09-12T10:14:24.5688171+05:30:Skipped: 0
+2019-09-12T10:14:24.5688171+05:30:Failed: 0
+2019-09-12T10:14:24.5818184+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-12T10:14:24.5828185+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\sreenivasa.munagala\Desktop\CsharpProject\specDemo\TestResults\Unnamed project__2019-09-12T101407.html'
+========== End of log file ==========
